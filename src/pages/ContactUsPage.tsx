@@ -174,7 +174,7 @@ const ContactUsPage = () => {
         <div className="w-full h-64 rounded-lg overflow-hidden">
           <iframe
             title="Company Location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d226.82700535256717!2d104.91377046947197!3d11.538448526870182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951307e9a7f63%3A0x8e7013d26be89f39!2sQ%20Specialty%20Coffee!5e1!3m2!1skm!2skh!4v1779991915998!5m2!1skm!2skh"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.3242436909509!2d104.91395862187129!3d11.53837499594966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951307e9a7f63%3A0x8e7013d26be89f39!2sQ%20Specialty%20Coffee!5e0!3m2!1skm!2skh!4v1780026504947!5m2!1skm!2skh"
             width="100%"
             height="100%"
             style={{ border: 0 }}
