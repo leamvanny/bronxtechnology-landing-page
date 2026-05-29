@@ -1,4 +1,3 @@
-import React from "react";
 import BronxLogo from "../../assets/images/bronx-logo-retina.png";
 
 const Footer = () => {
